@@ -2,8 +2,8 @@
 
 ## Available programs:
 
-* web_mining.py - Displays all the links present in the specified root URL - "http://www.vit.ac.in"
-* web_mining_images.py - Displays the src of all the images present in the root URL - "http://www.vit.ac.in"
+* _web_mining.py_ - Displays all the links present in the specified root URL - "http://www.vit.ac.in"
+* _web_mining_images.py_ - Displays the src of all the images present in the root URL - "http://www.vit.ac.in"
 
 ### Output of web_mining.py
 ![output of web_mining.py](web_mining_external_links.png)
